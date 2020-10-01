@@ -1,2 +1,4 @@
-# snakeVsBlockV2
-JAVAFX PC Game, alike to Play Store Game Snake vs Block, that include buttons, transitions and transition using threads.
+# Snake VS Block (v2.0)
+A JavaFX PC Game, similar to the Play Store game Snake vs Block.
+
+Our custom version includes buttons, transitions and transition using threads.
